@@ -1,2 +1,3 @@
 19/10/2019
 Prueba inicial curso git
+URL libro de git https://git-scm.com/book/es/v2

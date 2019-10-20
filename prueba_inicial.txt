@@ -1,8 +1,10 @@
-19/oct/2019
-Prueba inicial curso git
+fecha 19/oct/2019
+inicial curso git
 URL libro de git https://git-scm.com/book/es/v2
 linea adicional para probar git rm
 prueba git rm --cached
 nuevo cambio probanvo con Visual Studio Code
 cambios de prueba
 mas cambios antes de dar commit
+prueba git commit -am
+se crea nueva rama cabecera donde se estan realizando los cambios

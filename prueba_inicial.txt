@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 fecha 19/oct/2019 se realiza cambio en master
+=======
+fecha 19/oct/2019
+>>>>>>> cabecera
 inicial curso git
 URL libro de git https://git-scm.com/book/es/v2
 linea adicional para probar git rm
@@ -7,4 +11,9 @@ nuevo cambio probanvo con Visual Studio Code
 cambios de prueba
 mas cambios antes de dar commit
 prueba git commit -am
+<<<<<<< HEAD
 se crea nueva rama cabecera donde se estan realizando los cambios
+=======
+se crea nueva rama cabecera donde se estan realizando los cambios
+cambio en rama cabecera para probar git merge
+>>>>>>> cabecera

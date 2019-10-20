@@ -7,3 +7,4 @@ nuevo cambio probanvo con Visual Studio Code
 cambios de prueba
 mas cambios antes de dar commit
 prueba git commit -am
+se crea nueva rama cabecera donde se estan realizando los cambios

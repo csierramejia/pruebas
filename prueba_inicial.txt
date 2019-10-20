@@ -4,3 +4,5 @@ URL libro de git https://git-scm.com/book/es/v2
 linea adicional para probar git rm
 prueba git rm --cached
 nuevo cambio probanvo con Visual Studio Code
+cambios de prueba
+mas cambios antes de dar commit

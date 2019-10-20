@@ -6,3 +6,4 @@ prueba git rm --cached
 nuevo cambio probanvo con Visual Studio Code
 cambios de prueba
 mas cambios antes de dar commit
+prueba git commit -am

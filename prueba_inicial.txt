@@ -1,5 +1,5 @@
-19/oct/2019
-Prueba inicial curso git
+fecha 19/oct/2019
+inicial curso git
 URL libro de git https://git-scm.com/book/es/v2
 linea adicional para probar git rm
 prueba git rm --cached

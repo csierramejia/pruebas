@@ -1,3 +1,4 @@
+Se adiciona cambio simulando header
 fecha 19/oct/2019 se realiza cambio en master 
 inicial curso git se realiza cambio en cabecera para probar merge
 URL libro de git https://git-scm.com/book/es/v2

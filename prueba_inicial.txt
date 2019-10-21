@@ -20,3 +20,4 @@ nuevo cambio para validar si siempre solicita pass
 cambio nuevo
 otro cambio 2,1,3
 cambio quitando frase de seguridad
+se adiciona mensaje para simular footer

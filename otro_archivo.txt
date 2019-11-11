@@ -3,3 +3,4 @@ prueba editor vi
 cambios despues de crear rama cabecera2
 nuevo cambio en master
 prueba para validar si solo con git add . y luego checkout el cambio persiste
+cambio en cabecera

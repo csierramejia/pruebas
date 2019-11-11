@@ -1,3 +1,0 @@
-Archivo nuevo creado con touch
-nuevo cambio
-prueba git reset soft

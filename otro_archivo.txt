@@ -1,1 +1,2 @@
 se crea otro archivo
+prueba editor vi

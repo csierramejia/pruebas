@@ -1,3 +1,4 @@
 se crea otro archivo
 prueba editor vi
 cambios despues de crear rama cabecera2
+nuevo cambio en master

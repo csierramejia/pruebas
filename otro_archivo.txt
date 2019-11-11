@@ -1,7 +1,7 @@
 se crea otro archivo
 prueba editor vi
 cambios despues de crear rama cabecera2
-nuevo cambio en master linea del conflicto
+nuevo cambio en master - se corrige bug
 prueba para validar si solo con git add . y luego checkout el cambio persiste
 cambio en cabecera
 nueva linea que no debe colocar conflicto

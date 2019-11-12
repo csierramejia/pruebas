@@ -25,3 +25,4 @@ se adiciona mensaje para simular footer
 cambio en master
 se adiciona cambio en mi equipo
 nuevo cambio - se modifica con otro usuario
+cambio sin ser colaborador

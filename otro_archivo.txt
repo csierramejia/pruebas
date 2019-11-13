@@ -15,5 +15,3 @@ Experimento2
 Prueba
 Prueba nuevamente
 prueba stash
-commit1
-commit2
